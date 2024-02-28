@@ -8,3 +8,7 @@ Added some *changes* to the index.md file to **check how mardown works**!
 ```Java
 String text = "Hello world!";
 ```
+
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
